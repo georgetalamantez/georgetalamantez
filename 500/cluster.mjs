@@ -4,7 +4,7 @@ const { parser } = pkg; // Extract the parser from the imported package
 import streamValuesPkg from 'stream-json/streamers/StreamValues.js'; // Import StreamValues as a whole package
 const { streamValues } = streamValuesPkg; // Extract streamValues from the package
 import natural from 'natural';
-import kmeans from 'ml-kmeans'; // Adjust the import for KMeans
+import KMeans from 'ml-kmeans'; // Adjust the import for KMeans
 
 const tokenizer = new natural.WordTokenizer();
 const wordFrequencies = [];
@@ -52,7 +52,8 @@ pipeline.on('end', () => {
   };
 
   const performClustering = (vectors, numClusters) => {
-    return kMeans(vectors, numClusters); // Use KMeans directly
+    const kmeans = new KMeans(); // Instantiate the KMeans class
+    return kmeans.cluster(vectors, numClusters); // Call the cluster method
   };
 
   const { vectors } = wordFrequenciesToVectors(wordFrequencies);

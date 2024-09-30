@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 import { JSDOM } from 'jsdom';
 
 // Base URL to prepend to relative .flac URLs
-const BASE_URL = 'https://www.storj-ipfs.com';
+const BASE_URL = 'https://www.example.com';
 
 // Function to fetch a webpage and extract .flac URLs
 async function extractFlacUrls(pageUrl) {
