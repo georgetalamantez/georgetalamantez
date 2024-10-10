@@ -37,7 +37,7 @@ async function moveFilesBasedOnIndex(indexFilePath, sourceDir, destinationDir) {
 
     let movedCount = 0;
     for (const file of filesToMove) {
-      if (movedCount >= 250) break; // Stop if 250 files are successfully moved
+      if (movedCount >= 500) break; // Stop if 250 files are successfully moved
 
       const sourcePath = path.join(sourceDir, file);
       const destinationPath = path.join(destinationDir, file);
@@ -55,7 +55,7 @@ async function moveFilesBasedOnIndex(indexFilePath, sourceDir, destinationDir) {
 }
 
 // Specify the paths
-const indexFilePath = './index-txt.json'; // Path to the index JSON file
+const indexFilePath = './index-txt2.json'; // Path to the index JSON file
 const sourceDir = 'c:/users/owner/downloads/listing/pages'; // Path to the source directory
 const destinationDir = 'c:/users/owner/downloads/listing/500html'; // Path to the destination directory
 

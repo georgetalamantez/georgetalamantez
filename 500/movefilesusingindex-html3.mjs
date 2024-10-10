@@ -1,11 +1,12 @@
+// searches for keywords in titles and headings skipping missing files
 import { promises as fs } from 'fs';
 import path from 'path';
 
 const sourceDir = 'c:/users/owner/downloads/listing/pages'; // Source directory
 const destDir = 'c:/users/owner/downloads/listing/500html'; // Destination directory
-const indexFile = 'c:/users/owner/downloads/listing/index.json'; // Index file
+const indexFile = 'index-html.json'; // Index file
 const fileCount = 250; // Max number of files to move
-const minCharCount = 5000; // Minimum character count
+const minCharCount = 2000; // Minimum character count
 const maxCharCount = 30000; // Maximum character count
 
 async function moveFilesUsingIndex(newKeywords) {
@@ -26,8 +27,8 @@ async function moveFilesUsingIndex(newKeywords) {
       }
 
       // Check if any of the new keywords are present in the headings or title
-      const containsNewKeyword = newKeywords.some(keyword => 
-        headings.includes(keyword.toLowerCase()) || title.includes(keyword.toLowerCase())
+      const containsNewKeyword = newKeywords.some(keyword =>
+        headings.toLowerCase().includes(keyword.toLowerCase()) || title.toLowerCase().includes(keyword.toLowerCase())
       );
 
       if (containsNewKeyword) {
@@ -47,12 +48,26 @@ async function moveFilesUsingIndex(newKeywords) {
     for (const file of selectedFiles) {
       const sourcePath = path.join(sourceDir, file);
       const destPath = path.join(destDir, file);
+
+      // Check if file exists in the source directory
+      try {
+        await fs.access(sourcePath);
+      } catch (error) {
+        console.log(`File not found: ${file}`);
+        continue; // Skip to the next file
+      }
+
       await fs.rename(sourcePath, destPath);
       movedCount++;
-      console.log(`Moved ${file} to ${destDir}`);
+      console.log(`Moved ${file}`);
+
+      // Stop once the desired number of files have been moved
+      if (movedCount >= fileCount) {
+        break;
+      }
     }
 
-    console.log(`Successfully moved ${movedCount} files based on the new keywords and character count.`);
+    console.log(`Successfully moved ${movedCount} files.`);
   } catch (error) {
     console.error('Error moving files:', error);
   }

@@ -3,7 +3,7 @@ import path from 'path';
 
 const sourceDir = 'c:/users/owner/downloads/listing/pages'; // Source directory
 const destDir = 'c:/users/owner/downloads/listing/500html'; // Destination directory
-const indexFile = 'c:/users/owner/downloads/listing/index.json'; // Index file
+const indexFile = './index-html.json'; // Index file
 const fileCount = 250; // Max number of files to move
 
 async function moveFilesUsingIndex(newKeywords) {

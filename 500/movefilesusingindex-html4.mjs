@@ -3,8 +3,8 @@ import path from 'path';
 
 const sourceDir = 'c:/users/owner/downloads/listing/pages'; // Source directory
 const destDir = 'c:/users/owner/downloads/listing/500html'; // Destination directory
-const indexFile = 'c:/users/owner/downloads/listing/index.json'; // Index file
-const fileCount = 250; // Max number of files to move
+const indexFile = './index-html.json'; // Index file
+const fileCount = 500; // Max number of files to move
 const minCharCount = 5000; // Minimum character count
 const maxCharCount = 30000; // Maximum character count
 

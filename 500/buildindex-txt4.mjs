@@ -35,7 +35,7 @@ async function loadExistingIndex(indexFilePath) {
 }
 
 // Function to create or update the index
-async function createOrUpdateIndex(directoryPath, keywords, indexFilePath = 'index-txt.json') {
+async function createOrUpdateIndex(directoryPath, keywords, indexFilePath = 'index-txt2.json') {
   try {
     // Load existing index
     const existingIndex = await loadExistingIndex(indexFilePath);
@@ -83,8 +83,8 @@ async function createOrUpdateIndex(directoryPath, keywords, indexFilePath = 'ind
 
 // Specify the directory and keywords to search
 const directoryPath = 'c:/users/owner/downloads/listing/pages'; // Change this to the directory of your .txt files
-const keywords = ['listing', 'package', 'recipe', 'import org']; // Change this to the list of keywords you want to search for
-const indexFilePath = 'index-txt.json'; // Path to the index file
+const keywords = ['listing']; // Change this to the list of keywords you want to search for
+const indexFilePath = 'index-txt2.json'; // Path to the index file
 
 // Run the index creation/update
 createOrUpdateIndex(directoryPath, keywords, indexFilePath);
