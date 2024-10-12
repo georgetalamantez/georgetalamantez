@@ -1,3 +1,3 @@
 @echo on
 
-node doi.mjs >> log.txt 2>&1
+node buildindex-html2.mjs >> log.txt 2>&1

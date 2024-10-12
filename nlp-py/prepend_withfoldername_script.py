@@ -19,5 +19,5 @@ def prepend_folder_name_to_files(folder_path):
             print(f"Renamed '{filename}' to '{new_filename}'")
 
 # Example usage
-folder_path = r"C:/Users/Owner/Downloads/listing/libgen/10.1145"  # Update this with the path to your folder
+folder_path = r"C:/Users/Owner/Downloads/listing/libgen/10.3390"  # Update this with the path to your folder
 prepend_folder_name_to_files(folder_path)

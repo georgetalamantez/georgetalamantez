@@ -3,7 +3,7 @@ import path from 'path';
 import { load } from 'cheerio'; // Use named import
 
 const sourceDir = 'c:/users/owner/downloads/listing/pages'; // Source directory
-const indexFile = 'c:/users/owner/downloads/listing/index.json'; // Index file
+const indexFile = './index-html.json'; // Index file
 const keywords = ['listing', 'literature review', 'related work', 'conclusion', 'summary']; // Keywords to look for
 
 async function buildIndex() {

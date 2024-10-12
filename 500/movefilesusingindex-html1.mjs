@@ -4,7 +4,7 @@ import path from 'path';
 const sourceDir = 'c:/users/owner/downloads/listing/pages'; // Source directory
 const destDir = 'c:/users/owner/downloads/listing/500html'; // Destination directory
 const fileCount = 250; // Number of files to move
-const indexFile = 'c:/users/owner/downloads/listing/index.json'; // Path to the index file
+const indexFile = './index-html.json'; // Path to the index file
 
 // Function to move files based on the pre-built index
 async function moveFilesUsingIndex() {
