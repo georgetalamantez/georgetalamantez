@@ -1,3 +1,3 @@
 @echo on
 
-python doi_script4.py >> log.txt 2>&1
+python prepend_withfoldername_script.py >> log.txt 2>&1
