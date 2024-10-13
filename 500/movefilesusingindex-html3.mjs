@@ -1,4 +1,3 @@
-// searches for keywords in titles and headings skipping missing files
 import { promises as fs } from 'fs';
 import path from 'path';
 

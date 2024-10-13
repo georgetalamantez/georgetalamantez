@@ -1,3 +1,3 @@
 @echo on
 
-python code_script.py >> log.txt 2>&1
+python prepend_withfoldername_script.py >> log.txt 2>&1
