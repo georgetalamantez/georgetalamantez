@@ -75,4 +75,4 @@ async function moveFilesUsingIndex(newKeywords) {
 }
 
 // Example usage: Search for and move files based on new keywords, character count, and index data
-moveFilesUsingIndex(['related work', 'literature review', 'summary', 'conclusion', 'algorithm', 'cluster', 'graph']);
+moveFilesUsingIndex(['related work', 'literature review', 'summary', 'conclusion']);
