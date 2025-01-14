@@ -46,7 +46,7 @@ function formatFlacUrl(url) {
 }
 
 // Example usage
-const pageUrl = 'https://www.storj-ipfs.com/ipfs/QmWodScMiokVFmr9fsiZcbqJST59XKMxM6eJEWBhiYCWKo?filename=VA%2520-%2520New%2520Music%2520Releases%2520Week%252039%2520of%25202024%2520%2528FLAC%2520Songs%2529%2520%255BPMEDIA%255D%2520%25E2%25AD%2590%25EF%25B8%258F'; // Replace with your target page URL
+const pageUrl = 'https://www.storj-ipfs.com/ipfs/QmVmR4MtJHGjTCd6LsmZMHDxt4yiRCuGHJhpyNcA5XLUTC?filename=VA%2520-%2520New%2520Music%2520Releases%2520Week%252041%2520of%25202024%2520%2528FLAC%2520Songs%2529%2520%255BPMEDIA%255D%2520%25E2%25AD%2590%25EF%25B8%258F'; // Replace with your target page URL
 extractFlacUrls(pageUrl).then(flacUrls => {
   // Log each URL on a new line without surrounding quotes and commas
   flacUrls.forEach(url => {

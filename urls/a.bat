@@ -1,3 +1,3 @@
 @echo on
 
-node scimag.mjs >> log.txt 2>&1
+node shuffle2.mjs >> l.txt 2>&1

@@ -11,7 +11,7 @@ def prepend_folder_name_to_files(folder_path):
         # Ensure we're working with files only
         if os.path.isfile(file_path):
             # New file name with the parent folder name prepended
-            new_filename = f"{parent_folder_name}_{filename}"
+            new_filename = f"{parent_folder_name}@{filename}"
             new_file_path = os.path.join(folder_path, new_filename)
 
             # Rename the file
@@ -19,5 +19,5 @@ def prepend_folder_name_to_files(folder_path):
             print(f"Renamed '{filename}' to '{new_filename}'")
 
 # Example usage
-folder_path = r"C:/Users/Owner/Downloads/listing/libgen/10.3390"  # Update this with the path to your folder
+folder_path = r"C:/Users/Owner/Downloads/listing/libgen/10.1159"  # Update this with the path to your folder
 prepend_folder_name_to_files(folder_path)

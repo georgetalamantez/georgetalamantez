@@ -27,7 +27,7 @@ async function countFiles(directory) {
 }
 
 async function main() {
-    const directory = 'C:\\Users\\Owner\\Downloads\\Listing\\Pages';
+    const directory = 'C:\\Users\\Owner\\Downloads\\Listing\\ipfs\\temp';
     const { counts, totalSize } = await countFiles(directory);
     let totalFiles = 0;
 

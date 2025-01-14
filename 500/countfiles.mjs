@@ -11,5 +11,5 @@ async function countHTMFiles(directory) {
     }
 }
 
-const directoryPath = 'C:\\Users\\Owner\\Downloads\\listing\\pages';
+const directoryPath = 'C:\\Users\\Owner\\Downloads\\listing\\libgen';
 countHTMFiles(directoryPath);

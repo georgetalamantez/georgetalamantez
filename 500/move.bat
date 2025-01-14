@@ -1,3 +1,3 @@
 @echo on
 
-node lazy-weight-html.mjs >> log.txt 2>&1
+node moveindex3.mjs >> log.txt 2>&1

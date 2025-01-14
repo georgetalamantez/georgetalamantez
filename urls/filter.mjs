@@ -1,20 +1,25 @@
 import { readFileSync, writeFileSync } from 'fs';
 
-// Function to delete every other line from the file
-function deleteEveryOtherLine(filePath) {
+// Function to filter URLs based on file extension
+function filterUrlsByExtension(filePath, extensions) {
     // Read the file content as an array of lines
     const fileContent = readFileSync(filePath, 'utf-8').split('\n');
     
-    // Filter out every other line (keeping only odd-numbered lines)
-    const filteredContent = fileContent.filter((line, index) => index % 2 === 0);
+    // Filter lines that end with the specified extensions
+    const filteredContent = fileContent.filter((line) =>
+        extensions.some((ext) => line.trim().endsWith(ext))
+    );
     
     // Write the filtered content back to the file
     writeFileSync(filePath, filteredContent.join('\n'), 'utf-8');
     
-    console.log(`Processed ${filePath}: Every other line deleted.`);
+    console.log(`Processed ${filePath}: Filtered to include only specified extensions.`);
 }
 
 // Path to your .txt file
 const filePath = './log.txt'; // Replace with the actual path to your file
 
-deleteEveryOtherLine(filePath);
+// File extensions to keep
+const extensionsToKeep = ['.flac', '.mp3'];
+
+filterUrlsByExtension(filePath, extensionsToKeep);
