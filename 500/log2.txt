@@ -1585,3 +1585,1155 @@ API Response: {
 Deleted file: c:\users\owner\downloads\listing\libgen\10.1017@s147895152100050x.pdf
 Progress: 132/9528 files uploaded.
 Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03544496.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03544496.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmTx5Su9H7xpXvRXfUThn1SDu956jHqepEp2YyZiKzuif5',
+    id: '0DBfm5QBVG01gQEWVrxG'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03544496.pdf
+Progress: 133/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.3390@ijms22031249.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.3390@ijms22031249.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmZUJcVU4Kytg2D9zExghXCjyL1auWDYeCXHtT3J4Qga2r',
+    id: 'S6Zfm5QBGrK7IrfQqa7y'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.3390@ijms22031249.pdf
+Progress: 134/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543844.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543844.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmcA6JS2Kx8Mb1UCFzMHiWfjpfR4pFxKjF7mR5WrmvpQD5',
+    id: '0TBfm5QBVG01gQEW_bxU'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543844.pdf
+Progress: 135/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jssr.2021.05.003.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jssr.2021.05.003.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmZRAcpcb8TPSw1ZDiZYnttZQVH9hXbmz5s4bKLn1Hs7oc',
+    id: '4BJgm5QBftP1pf7KK0Qn'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jssr.2021.05.003.pdf
+Progress: 136/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.inan.2019.10.012.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.inan.2019.10.012.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmXVSXYN7DWRvG3etukjuGuNhCwgbKMozafDJPjFMWhiA3',
+    id: '0jBgm5QBVG01gQEWgbzH'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.inan.2019.10.012.pdf
+Progress: 137/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.gaitpost.2021.05.034.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.gaitpost.2021.05.034.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmPrH1957Y8ABNe9Y8fdpBM5jQLNrFcvEW8oF7UyhFK1j2',
+    id: '0zBgm5QBVG01gQEW2bwe'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.gaitpost.2021.05.034.pdf
+Progress: 138/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03544645.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03544645.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmVhNG7fUQKf7nzTQSekcwLGUvZEV2XqMWGGMtMzrDsK96',
+    id: 'TKZhm5QBGrK7IrfQBq4-'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03544645.pdf
+Progress: 139/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jsams.2020.12.013.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jsams.2020.12.013.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmQevbtEB9Rf7LptpU79j2GwBtYscfvb5YpSv4mM8p2NZj',
+    id: 'TaZhm5QBGrK7IrfQVq4-'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jsams.2020.12.013.pdf
+Progress: 140/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1017@9781108646871.206.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1017@9781108646871.206.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmYANNsXHuP3FX6ex4y77AwUd39fxb8MwpfrKSTAGebiEu',
+    id: 'TqZhm5QBGrK7IrfQpa6A'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1017@9781108646871.206.pdf
+Progress: 141/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jdmv.2021.03.003.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jdmv.2021.03.003.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmZSNMApmu6mwg73ddiiN7GyMWAdHSt89B3nxHJfN2Egxs',
+    id: 'T6Zhm5QBGrK7IrfQ-a5B'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jdmv.2021.03.003.pdf
+Progress: 142/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jdmv.2020.01.118.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jdmv.2020.01.118.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qmf4fLnpcDrQQKhrEvGQgqc797SXrTCCpaZ3Pa5fscaKVK',
+    id: '1DBim5QBVG01gQEWUrw9'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jdmv.2020.01.118.pdf
+Progress: 143/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jspr.2020.101759.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jspr.2020.101759.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmTyrbvxtjbqCnZRJ17nGgjeWseUFXMJvothNYpyK8Jo4w',
+    id: 'RLtim5QB7SG3e99qgZ81'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jspr.2020.101759.pdf
+Progress: 144/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.oraloncology.2021.105374.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.oraloncology.2021.105374.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmXu9rKoGDrcF9KLqEgR7tehYiSZ2Xvezad8L3uJNaNorA',
+    id: 'UKZim5QBGrK7IrfQr66O'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.oraloncology.2021.105374.pdf
+Progress: 145/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543598.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543598.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmQna9PCyJjyADdG7ouSPKBRycPCc4g2e6nE5v289WvFWw',
+    id: 'UaZjm5QBGrK7IrfQAa7X'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543598.pdf
+Progress: 146/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2021.02.152.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2021.02.152.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmfQZXcetxu1fnovyFgJBVaMA1kCc3iMQHqifNaH4BKcmM',
+    id: 'UqZjm5QBGrK7IrfQL64i'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2021.02.152.pdf
+Progress: 147/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1109@CSCWD49262.2021.9437798.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1109@CSCWD49262.2021.9437798.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmYPB67nc1UvkYcKZAfa4EgFqBK5FYeXYvzUqeKoWc1Ft3',
+    id: '1TBjm5QBVG01gQEWW7zx'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1109@CSCWD49262.2021.9437798.pdf
+Progress: 148/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1063@5.0051353.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1063@5.0051353.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmR6Vb2CDNW4a8kdz73pLH3bbfVherZn2g7CagaLRDgyGu',
+    id: '4RJjm5QBftP1pf7KtUSg'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1063@5.0051353.pdf
+Progress: 149/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.yebeh.2020.107706.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.yebeh.2020.107706.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmZ7fV491ZaTQredkyfuoGxyQeFxhvdAHJEboKjLLP98Cu',
+    id: 'Rbtkm5QB7SG3e99qCJ9G'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.yebeh.2020.107706.pdf
+Progress: 150/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jevs.2021.103638.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jevs.2021.103638.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmNiYh2s3N9nT98JYyfVppnvDRWUKv57txgmXKXSvjuUuo',
+    id: '4hJkm5QBftP1pf7KNkRl'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jevs.2021.103638.pdf
+Progress: 151/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jmig.2021.04.019.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jmig.2021.04.019.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qmbe4jGJeZaa2nwL9CLiE2qnG8Moh3EygcSdN13A7gJPpS',
+    id: 'Rrtkm5QB7SG3e99qiZ9v'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jmig.2021.04.019.pdf
+Progress: 152/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jped.2021.04.004.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jped.2021.04.004.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmSPpfcvkf98qLdfH7s5WMMyzziGXARdsQX6GQfv4D6d4W',
+    id: 'U6Zkm5QBGrK7IrfQ2a78'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jped.2021.04.004.pdf
+Progress: 153/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543730.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543730.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmcFgu7rjxjRr4hgdFhe3JbKc1dvjnnM66SiyZZTDvajTJ',
+    id: '4xJlm5QBftP1pf7KLET_'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543730.pdf
+Progress: 154/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.125422.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.125422.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmbFTUco5KykvYsZRxZDTFTH5N1iorunFi45PVvVEnRKTt',
+    id: 'VKZlm5QBGrK7IrfQVq6C'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.125422.pdf
+Progress: 155/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jspr.2021.101770.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jspr.2021.101770.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmSJuiWcwaCMveCZa7zV3SiwHsD2kHhCcc2Hk8pRD742qN',
+    id: '1jBlm5QBVG01gQEWhbwn'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jspr.2021.101770.pdf
+Progress: 156/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2020.12.022.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2020.12.022.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmQgJHNeBcSp7Gr2NQXjYKCcXLDJ9GhBa6JfD1FBjcKHmq',
+    id: 'R7tlm5QB7SG3e99qsp_F'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2020.12.022.pdf
+Progress: 157/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543857.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543857.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmRPmW4xJTa6ojb9Kq6gsnu9if95LDZeT2rMnF9a8EPs95',
+    id: '1zBlm5QBVG01gQEW3bzx'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543857.pdf
+Progress: 158/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03544644.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03544644.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmZvvcTuwaHeW7HR8R79AXNt4nEwkWgP3MsdahmrzhVJQa',
+    id: '2DBmm5QBVG01gQEWELwd'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03544644.pdf
+Progress: 159/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.3390@ijms22062967.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.3390@ijms22062967.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmUtdYQrkxpwtMkRYpreyvB3WkGMyM2kMZ8mVbFV1u2E4i',
+    id: '2TBmm5QBVG01gQEWQ7wk'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.3390@ijms22062967.pdf
+Progress: 160/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jcz.2021.06.001.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jcz.2021.06.001.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmQiitApQjy4Do94vjwV9q7TWUaQcdRARqDfen8rhbyyQa',
+    id: 'SLtmm5QB7SG3e99qcZ_D'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jcz.2021.06.001.pdf
+Progress: 161/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.125131.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.125131.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmX2qGFrDp55t7ifdzJSaFdFQQVTRQABisrskpLGPMtaCd',
+    id: 'VaZmm5QBGrK7IrfQo64n'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.125131.pdf
+Progress: 162/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03544077.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03544077.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmfF5BGTWLq3K35S33zy8au9vgbFxEKjPaoXQ9vYQgyXMp',
+    id: '2jBmm5QBVG01gQEW0rwf'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03544077.pdf
+Progress: 163/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543992.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543992.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmXR9T2ZbknJhBepgzEjuSeg7g7kYFbtFVsYj7YbA3uHAg',
+    id: '5BJnm5QBftP1pf7KLUTK'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543992.pdf
+Progress: 164/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.apmr.2021.02.023.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.apmr.2021.02.023.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmUSHa9zNT6D97Gwb7SvihMaojRusr1PrDkQVTbK9fS3he',
+    id: 'VqZnm5QBGrK7IrfQWa4M'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.apmr.2021.02.023.pdf
+Progress: 165/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.beem.2021.101517.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.beem.2021.101517.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmVMk9GUKzkx4XChjwQUqrtd2j2oXKou15D6M1sKXSuQey',
+    id: '2zBnm5QBVG01gQEWjrx-'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.beem.2021.101517.pdf
+Progress: 166/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543948.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543948.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmRqjDLvC16v1nEuZ5sxjQ8KTuZGytrC5gawRRYEdNdTub',
+    id: 'V6Znm5QBGrK7IrfQwq7k'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543948.pdf
+Progress: 167/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03544062.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03544062.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmR9W8DXviYBwnktjfo1a6DfMvosf37kGfHxkEGzSSBBUm',
+    id: 'WKZnm5QBGrK7IrfQ9653'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03544062.pdf
+Progress: 168/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543862.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543862.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qmer1PGhHHT6UNL25TdgUqUvyjvCc8A2ynR6WxdQ8VCSq7',
+    id: '5RJom5QBftP1pf7KT0Sc'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543862.pdf
+Progress: 169/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.gofs.2021.02.005.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.gofs.2021.02.005.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmbFZYfqr9CvV73H8VBbTNjag6WNu1oV1xKni6hVoTqZrw',
+    id: '5hJom5QBftP1pf7KeESf'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.gofs.2021.02.005.pdf
+Progress: 170/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.chaos.2021.111107.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.chaos.2021.111107.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmQpt12zgonQ2EKSM7WEUydDGYDUuPw9MLLvkAJKahkZRo',
+    id: '3DBom5QBVG01gQEWprxs'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.chaos.2021.111107.pdf
+Progress: 171/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2021.02.047.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2021.02.047.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qmb3k3UYGWeBHzeBzkLFYHJjSjGjkMthM5dtGoh5Qce9B1',
+    id: 'Sbtom5QB7SG3e99q158K'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2021.02.047.pdf
+Progress: 172/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jstrokecerebrovasdis.2021.105705.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jstrokecerebrovasdis.2021.105705.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmPs3thbUnfb363aiWG9gwk7G1kT7QDetzWWZE7hFw743S',
+    id: 'Srtom5QB7SG3e99q_5-t'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jstrokecerebrovasdis.2021.105705.pdf
+Progress: 173/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543842.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543842.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmPrDFcmDmeiU43yq724P8x618eKhXwFr21RRi3MWDCqpp',
+    id: '3TBpm5QBVG01gQEWVbxG'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543842.pdf
+Progress: 174/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jhin.2021.03.024.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jhin.2021.03.024.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmetvZo5NevQDLf45ZpnCQbxL9PYzLFHfqQzVwo1DtnDrM',
+    id: '3jBpm5QBVG01gQEWg7yV'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jhin.2021.03.024.pdf
+Progress: 175/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.3390@ijms22020968.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.3390@ijms22020968.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmdzScWpoFZP1v6UZqqMzs4tFXMXy4HkWR7oVHeHM1LmJn',
+    id: 'WaZpm5QBGrK7IrfQsq4P'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.3390@ijms22020968.pdf
+Progress: 176/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543870.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543870.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmSJgLbuSCGnExw3zbu79N6BhKneAGCDEwRs6ziJwtK1uK',
+    id: '3zBqm5QBVG01gQEWC7xb'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543870.pdf
+Progress: 177/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1017@9781108646871.189.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1017@9781108646871.189.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmV9NEmfrdgoyVeu7sr2W5Lo2MTxQfYc6Pt8x9HpCgH7xV',
+    id: '5xJqm5QBftP1pf7KZURG'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1017@9781108646871.189.pdf
+Progress: 178/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543764.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543764.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmXLLGdcHEUMo8QrFUKHFBW3hyaWyhDiijuwop78epKX9o',
+    id: '4DBqm5QBVG01gQEWt7w0'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543764.pdf
+Progress: 179/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543821.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543821.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmbNUkjJmEufChydHq4NATXeW1xUrdUSAetdAmp8shFBx6',
+    id: '6BJrm5QBftP1pf7KEETG'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543821.pdf
+Progress: 180/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jsr.2021.02.009.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jsr.2021.02.009.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmPenJi1JjKGd4ikiYXvXcujUyyEAxXjrhpV1FVTEzxqHs',
+    id: 'S7trm5QB7SG3e99qQ5_G'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jsr.2021.02.009.pdf
+Progress: 181/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1021@acs.analchem.0c02345.s001.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1021@acs.analchem.0c02345.s001.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmW9qUaPUGxeK2C75amS8RXd5TCV82ndZJQEihVnAtDZzz',
+    id: '4TBrm5QBVG01gQEWcrxP'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1021@acs.analchem.0c02345.s001.pdf
+Progress: 182/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543950.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543950.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmWuzJMnQtokDuGFvFEbNzK2cA9Kqe91mdJs3WpFATEqH4',
+    id: '4jBrm5QBVG01gQEWobwA'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543950.pdf
+Progress: 183/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543713.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543713.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmQ1VBQ194dkd88GzFMfgwp9teog6fdttyH4tBimnMfeaJ',
+    id: '4zBrm5QBVG01gQEW0Lze'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543713.pdf
+Progress: 184/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543847.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543847.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qma3h18zgAhqXJLCJ6naSVEjBTG5w6WBBS471uv3TRSKLi',
+    id: '5DBrm5QBVG01gQEW-bxI'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543847.pdf
+Progress: 185/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1021@acs.biomac.0c01158.s001.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1021@acs.biomac.0c01158.s001.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmbGkMfhYrKs4FjLsYKyeHBLK26vrxBJJavyNc3ay2nUyR',
+    id: '5TBsm5QBVG01gQEWU7wd'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1021@acs.biomac.0c01158.s001.pdf
+Progress: 186/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jpeds.2021.05.008.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jpeds.2021.05.008.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qme8gLaPJce5cawJpVMzcgcWnjeLdgBbxYAcrLRc34miG8',
+    id: '6RJsm5QBftP1pf7Kf0Qz'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jpeds.2021.05.008.pdf
+Progress: 187/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.apmr.2021.01.085.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.apmr.2021.01.085.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qmcdp9nwDNoTJHVW3X5Aw4TFatHXjAGAX828bUPnwHjKwa',
+    id: 'TLtsm5QB7SG3e99qrZ9B'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.apmr.2021.01.085.pdf
+Progress: 188/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.124925.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.124925.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qma3QwQD6LJh7CVizrbLXSuMkCtVGMqqgJsXxmEPo9c47W',
+    id: 'Tbttm5QB7SG3e99qAJ-P'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jmaa.2021.124925.pdf
+Progress: 189/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543671.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543671.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmdXicfaAdT3L43CyjqmGdc7joEd2deH9iQppYseDBCHLX',
+    id: 'Trttm5QB7SG3e99qL5-R'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543671.pdf
+Progress: 190/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543804.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543804.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmRbqPTu92B7SKx7PWj9E2RqkTA6vbnBuJ81TdKjCoJpND',
+    id: 'T7ttm5QB7SG3e99qW5-M'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543804.pdf
+Progress: 191/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1109@ISBI48211.2021.9434164.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1109@ISBI48211.2021.9434164.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmZXCs3fpr6197qwwvPojaxsmMouS4hnco9GpuQyFKMYdR',
+    id: '6hJtm5QBftP1pf7Kh0Sm'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1109@ISBI48211.2021.9434164.pdf
+Progress: 192/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543975.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543975.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmSVD9oC8z6gAepF1Kus4ziEVgwZ52HbtzUzsob1V1FWCz',
+    id: '5jBtm5QBVG01gQEW2rxA'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543975.pdf
+Progress: 193/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1286.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1286.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmUzV76ju5ZeTZAC96ggPUj8TMb2zHTpG7X1tx26DgT1J3',
+    id: 'ULtum5QB7SG3e99qCJ8Q'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1286.pdf
+Progress: 194/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jrurstud.2021.04.005.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jrurstud.2021.04.005.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmXmbPdf24cRJDYvrtRdSXi1Ltq7rdWU1vq9BB4VyYLXto',
+    id: 'WqZum5QBGrK7IrfQNa4-'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jrurstud.2021.04.005.pdf
+Progress: 195/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.3390@ijms22010064.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.3390@ijms22010064.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmdD4CpHUf5ioT6APAoABdea5miEph2PaET7VCiN9BEGdy',
+    id: 'Ubtum5QB7SG3e99qhZ_e'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.3390@ijms22010064.pdf
+Progress: 196/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jpeds.2021.03.057.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jpeds.2021.03.057.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmeaM1mptvTzC4AqDgp3maSTGTF8SgqfhPSr4w9L5koJhF',
+    id: 'Urtum5QB7SG3e99q4p9S'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jpeds.2021.03.057.pdf
+Progress: 197/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543651.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543651.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qme1dsx1WtPvXj7VE1yQNet1qXidcpc1MdK9CP4TcX8JnL',
+    id: 'W6Zvm5QBGrK7IrfQCq7c'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543651.pdf
+Progress: 198/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.chaos.2021.110835.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.chaos.2021.110835.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmVNWNyXTngxW4XN4EMbsyMYpssMkWz5yBKzavcZ7dDiP5',
+    id: 'U7tvm5QB7SG3e99qOp92'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.chaos.2021.110835.pdf
+Progress: 199/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1086@renaissancenews.15.1.2858243.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1086@renaissancenews.15.1.2858243.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmfBU4zE1X8u1pcoQ5swe37ocAArKKi88oNgHBA5WtGzMS',
+    id: 'VLtvm5QB7SG3e99qjJ8U'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1086@renaissancenews.15.1.2858243.pdf
+Progress: 200/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1023.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1023.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmXG6K3cHzMDzAcw6X8L1aUNnARGk3idnEBpmUXWM3o8Ud',
+    id: '6xJvm5QBftP1pf7K5ER6'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1023.pdf
+Progress: 201/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543832.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543832.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmcGsGhS676naq16q4gDn79rfHuKLuQRvVPRWUqoosCPTY',
+    id: '5zBwm5QBVG01gQEWELx5'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543832.pdf
+Progress: 202/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.3390@ijms22042105.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.3390@ijms22042105.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmXb9pmZ6je33R16N7gqWQ9R8d6HfxFPZs53zabFn3pJfD',
+    id: 'XKZwm5QBGrK7IrfQXq5J'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.3390@ijms22042105.pdf
+Progress: 203/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2021.04.144.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2021.04.144.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmezHBeNdbRYsZf6RsT9Ei5DcAvQVvfDJkctf7CMnnPvSF',
+    id: 'XaZwm5QBGrK7IrfQsK7u'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2021.04.144.pdf
+Progress: 204/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jecp.2021.105176.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jecp.2021.105176.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmYuPoYnGxTam4Qqui6bdGwnUewHD8AXVQot1uSRPxp2Sm',
+    id: 'Vbtxm5QB7SG3e99qBZ87'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jecp.2021.105176.pdf
+Progress: 205/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2021.02.139.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2021.02.139.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmRtBtQNrXmqq3DffXALSSiyWCaZ9C5cWe4QWCSSfvBafT',
+    id: '7BJxm5QBftP1pf7KVUSr'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2021.02.139.pdf
+Progress: 206/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@s0167-8140%2821%2900495-3.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@s0167-8140%2821%2900495-3.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmZoKmUieufNGRhNdzq4KkRdowLE7XLf7KuRRG29YmTiRN',
+    id: 'XqZxm5QBGrK7IrfQqK7t'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@s0167-8140%2821%2900495-3.pdf
+Progress: 207/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@s0016-5085%2821%2900917-3.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@s0016-5085%2821%2900917-3.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmdiU5nPVENLsWAgcwUPohxuNSeAzsVnN9crXFKXCgjZ6Z',
+    id: '6DBym5QBVG01gQEWALyU'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@s0016-5085%2821%2900917-3.pdf
+Progress: 208/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jemep.2021.100663.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jemep.2021.100663.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmZfsyoU1MYYF7g3JPetev1TeLKy49Fb1DadSi8o1W4aj7',
+    id: '7RJym5QBftP1pf7KVUQu'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jemep.2021.100663.pdf
+Progress: 209/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1345.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1345.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmbJiRfrtAnY2P42vypP6ZCqXvkT2sg2jfFXY1Uwadic95',
+    id: 'X6Zym5QBGrK7IrfQq64-'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jval.2020.08.1345.pdf
+Progress: 210/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.cortex.2020.12.002.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.cortex.2020.12.002.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmaRVivnjKQUtfxH1DMewo6mugENGKJQ172WRNPJ4cqe6N',
+    id: 'YKZym5QBGrK7IrfQ2a5A'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.cortex.2020.12.002.pdf
+Progress: 211/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jtct.2021.02.020.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jtct.2021.02.020.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmVTwnEF4cG7wV8NZCWhdyoTBXRLKfGnBRGT8B23ve4vSq',
+    id: 'Vrtzm5QB7SG3e99qK59s'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jtct.2021.02.020.pdf
+Progress: 212/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.apacoust.2021.108241.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.apacoust.2021.108241.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmawewQsuJpKgSu9YvvVkJqx1M2sgJ2nn9dwLeDxxrXoVz',
+    id: 'YaZzm5QBGrK7IrfQga6-'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.apacoust.2021.108241.pdf
+Progress: 213/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jcmg.2020.10.020.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jcmg.2020.10.020.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmS4PNxBrvPXkdqVZy1bq2QaTDqEnDpaR4nFCroeZvA6CE',
+    id: '7hJzm5QBftP1pf7Ks0Sg'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jcmg.2020.10.020.pdf
+Progress: 214/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543834.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543834.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qmc3MxBixUB4NuShZq2T9V7KgEjEUNvxbQRh27o7w1aYRE',
+    id: '6TBzm5QBVG01gQEW3ry7'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543834.pdf
+Progress: 215/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03544497.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03544497.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmUyMjDDt1tZM2bLZxZKxXUc4AWL9xnKiUH2Pr55rMDuzr',
+    id: '6jB0m5QBVG01gQEWMbya'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03544497.pdf
+Progress: 216/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543846.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543846.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmfNK62PTZoNjEFSXc7THztaAMzYYeG3nMnkfzzVXxepAT',
+    id: '6zB0m5QBVG01gQEWWrxt'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543846.pdf
+Progress: 217/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jid.2021.04.007.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jid.2021.04.007.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmYpfGuvFB1fAuovh3yPw75WEe2JLJ6jzLgyR8QHsUkyrx',
+    id: '7xJ0m5QBftP1pf7KiEQx'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jid.2021.04.007.pdf
+Progress: 218/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jss.2021.02.007.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jss.2021.02.007.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmRhj9zFCewoSPFRWM2pwnJCTyaKtpZiQ2CPtEWP4271dw',
+    id: 'YqZ0m5QBGrK7IrfQtq7n'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jss.2021.02.007.pdf
+Progress: 219/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1109@AERO50100.2021.9438390.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1109@AERO50100.2021.9438390.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmVRMDmfHriKVuxmFKd1fN2dzwaob3qfEMiXHrX39sLzRP',
+    id: 'V7t0m5QB7SG3e99q5Z9G'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1109@AERO50100.2021.9438390.pdf
+Progress: 220/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.frl.2021.102093.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.frl.2021.102093.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmNYFeSei6SciEnHGg8rn7etvJaTJhw1ZZvft6RmLRa5j5',
+    id: 'Y6Z1m5QBGrK7IrfQNa54'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.frl.2021.102093.pdf
+Progress: 221/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2020.10.138.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2020.10.138.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qma9aJATWfqpfRvYPweTaz26W6yLkeTvWc16ecG8ek9PTg',
+    id: '8BJ1m5QBftP1pf7KY0Tq'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.matpr.2020.10.138.pdf
+Progress: 222/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543839.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543839.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmaQcSa2boWoebXFzHx4VS3mpEDoUtt8eZoxbnb4Z8qo2k',
+    id: 'WLt1m5QB7SG3e99qu5-d'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543839.pdf
+Progress: 223/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2021.03.020.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2021.03.020.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmVWnkTt1PEuRdLS33HQsxaZFJPFqo7EdHZCKP7VSs8X6v',
+    id: 'Wbt2m5QB7SG3e99qF5_4'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jde.2021.03.020.pdf
+Progress: 224/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jseint.2021.03.008.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jseint.2021.03.008.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmdCaeT79xpMDLKjsAws3mNwKZEiZTj9QuTobcRALUh5x8',
+    id: '8RJ2m5QBftP1pf7Ka0Sw'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jseint.2021.03.008.pdf
+Progress: 225/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.jdiacomp.2021.107848.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.jdiacomp.2021.107848.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmTSLdCsUhzGUiRFbNLc8g6xAm2m4YB25P3T5n8mkCXxCA',
+    id: 'Wrt2m5QB7SG3e99qvJ86'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.jdiacomp.2021.107848.pdf
+Progress: 226/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.chc.2021.04.001.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1016@j.chc.2021.04.001.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'QmNiYkqumoCRxVWQtXoCTeLb8VSEAiBcKnBJN7kiHJWogG',
+    id: 'ZKZ2m5QBGrK7IrfQ5K7u'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1016@j.chc.2021.04.001.pdf
+Progress: 227/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1007@bf03543866.pdf (Attempt 1)
+File 'c:\users\owner\downloads\listing\libgen\10.1007@bf03543866.pdf' uploaded successfully!
+API Response: {
+  code: 0,
+  message: 'ok',
+  data: {
+    cid: 'Qme7HHPPjXDSoSWiAKyxisbrZrNzdryMy66WAoM6PVenUH',
+    id: 'W7t3m5QB7SG3e99qM582'
+  }
+}
+Deleted file: c:\users\owner\downloads\listing\libgen\10.1007@bf03543866.pdf
+Progress: 228/9528 files uploaded.
+Uploading: c:\users\owner\downloads\listing\libgen\10.1016@j.mcna.2020.10.005.pdf (Attempt 1)
