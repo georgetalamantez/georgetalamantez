@@ -1,9 +1,32 @@
 import fs from 'fs';
 
 /**
- * Enhanced Shuffle Algorithm
+ * Fisher-Yates (Knuth) Shuffle Algorithm
+ * @param {Array} array - The array to shuffle.
+ * @returns {Array} - The shuffled array.
+ */
+function fisherYatesShuffle(array) {
+    let m = array.length, t, i;
+
+    // While there remain elements to shuffle…
+    while (m) {
+        // Pick a remaining element…
+        i = Math.floor(Math.random() * m--);
+
+        // And swap it with the current element.
+        t = array[m];
+        array[m] = array[i];
+        array[i] = t;
+    }
+
+    return array;
+}
+
+/**
+ * Enhanced Shuffle Algorithm with Fisher-Yates Integration
  * Shuffles URLs such that middle elements are preferentially moved to the top or bottom.
  * @param {Array} array - The array to shuffle.
+ * @returns {Array} - The shuffled array.
  */
 function enhancedShuffle(array) {
     const midStart = Math.floor(array.length / 3);
@@ -13,16 +36,18 @@ function enhancedShuffle(array) {
     // Remove the middle section from the array
     const remainingElements = [...array.slice(0, midStart), ...array.slice(midEnd)];
 
-    // Shuffle the middle section and split it into two groups
-    middleElements.sort(() => Math.random() - 0.5);
-    const toTop = middleElements.slice(0, Math.floor(middleElements.length / 2));
-    const toBottom = middleElements.slice(Math.floor(middleElements.length / 2));
+    // Shuffle the middle section with Fisher-Yates
+    const shuffledMiddle = fisherYatesShuffle(middleElements);
 
-    // Shuffle remaining elements
-    remainingElements.sort(() => Math.random() - 0.5);
+    // Split shuffled middle into two groups
+    const toTop = shuffledMiddle.slice(0, Math.floor(shuffledMiddle.length / 2));
+    const toBottom = shuffledMiddle.slice(Math.floor(shuffledMiddle.length / 2));
+
+    // Shuffle remaining elements with Fisher-Yates
+    const shuffledRemaining = fisherYatesShuffle(remainingElements);
 
     // Combine: top -> shuffled middle -> remaining -> bottom
-    return [...toTop, ...remainingElements, ...toBottom];
+    return [...toTop, ...shuffledRemaining, ...toBottom];
 }
 
 /**
@@ -49,7 +74,7 @@ async function shuffleUrls(inputPath, outputPath) {
 
 // Input and output file paths
 const inputFilePath = './log.txt'; // Replace with your actual file path
-const outputFilePath = './shuffled_log_enhanced.txt';
+const outputFilePath = './log.txt';
 
 // Run the script
 shuffleUrls(inputFilePath, outputFilePath);

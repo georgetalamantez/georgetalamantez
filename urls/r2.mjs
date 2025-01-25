@@ -9,7 +9,7 @@ const BATCH_SIZE = 10; // Number of URLs to process in each batch
 // Base URL to restrict crawling
 const BASE_URL = 'https://www.storj-ipfs.com';
 const FILE_EXTENSIONS = ['.flac', '.mp3'];
-const IGNORE_EXTENSIONS = ['.nfo', '.txt', '.m4a', '.cue', '.jpg', '.m3u'];
+const IGNORE_EXTENSIONS = ['.nfo', '.png', '.txt', '.m4a', '.cue', '.jpg', '.m3u'];
 
 /**
  * Fetches the HTML content of a URL.
