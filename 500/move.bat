@@ -1,3 +1,3 @@
 @echo on
 
-node moveindex3.mjs >> log.txt 2>&1
+node upload_files.mjs >> log3.txt 2>&1

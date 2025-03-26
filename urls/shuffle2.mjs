@@ -73,8 +73,8 @@ async function shuffleUrls(inputPath, outputPath) {
 }
 
 // Input and output file paths
-const inputFilePath = './log.txt'; // Replace with your actual file path
-const outputFilePath = './log.txt';
+const inputFilePath = 'c:/users/owner/music/playlists/log.m3u'; // Replace with your actual file path
+const outputFilePath = 'c:/users/owner/music/playlists/log.m3u';
 
 // Run the script
 shuffleUrls(inputFilePath, outputFilePath);

@@ -1,3 +1,3 @@
 @echo off
 
-node upload_files.mjs >> log2.txt 2>&1
+node up1.mjs >> log2.txt 2>&1

@@ -8,7 +8,7 @@ import chardet
 sys.stdout.reconfigure(encoding='utf-8')
 
 # Paths
-source_folder = r'c:\users\owner\downloads\listing\html'
+source_folder = r'c:\users\owner\downloads\size2.2 html'
 destination_folder = r'c:\users\owner\downloads\listing\ipfs\temp'
 
 # Create destination folder if it doesn't exist

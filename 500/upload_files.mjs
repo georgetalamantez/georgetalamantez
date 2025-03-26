@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 import FormData from 'form-data';
 
 const sessionFile = "c:/users/owner/downloads/request_session.txt";
-const folderPath = "c:/users/owner/downloads/listing/libgen";
+const folderPath = "c:/users/owner/downloads/listing/ipfs/movies";
 
 // Extract the cookie from the session file
 function extractCookie(sessionFile) {
