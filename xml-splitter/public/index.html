@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XML/HTML Splitter</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #333; }
+        .form-group { margin-bottom: 20px; }
+        label { display: block; margin-bottom: 5px; font-weight: bold; }
+        input[type="text"], input[type="file"] { width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
+        button { background-color: #0066cc; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; font-size: 16px; }
+        button:hover { background-color: #0052a3; }
+        #status { margin-top: 20px; padding: 10px; border-radius: 4px; display: none; }
+        .success { background-color: #d4edda; color: #155724; }
+        .error { background-color: #f8d7da; color: #721c24; }
+        .loading { color: #666; }
+    </style>
+</head>
+<body>
+    <h1>XML/HTML Chunk Splitter</h1>
+    <p>Upload a large HTML or XML file to split it into smaller files based on a heading or selector.</p>
+    
+    <form id="splitForm">
+        <div class="form-group">
+            <label for="file">Select File</label>
+            <input type="file" id="file" name="file" required accept=".html,.xml,.txt">
+        </div>
+        
+        <div class="form-group">
+            <label for="selector">Split Selector (e.g. h1, h2, div.chapter)</label>
+            <input type="text" id="selector" name="selector" value="h2" placeholder="h2">
+        </div>
+
+        <button type="submit">Split & Download Zip</button>
+    </form>
+
+    <div id="status"></div>
+
+    <script>
+        const form = document.getElementById('splitForm');
+        const status = document.getElementById('status');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const formData = new FormData(form);
+            status.textContent = 'Processing... Please wait.';
+            status.style.display = 'block';
+            status.className = 'loading';
+
+            try {
+                const response = await fetch('/split', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (!response.ok) {
+                    const text = await response.text();
+                    throw new Error(text);
+                }
+
+                // Handle download
+                const blob = await response.blob();
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = "split_files.zip";
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+                window.URL.revokeObjectURL(url);
+
+                status.textContent = 'Done! File downloaded.';
+                status.className = 'success';
+            } catch (err) {
+                status.textContent = 'Error: ' + err.message;
+                status.className = 'error';
+            }
+        });
+    </script>
+</body>
+</html>

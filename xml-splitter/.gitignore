@@ -1,0 +1,24 @@
+# Selective .gitignore for xml-splitter
+node_modules/
+output/
+uploads/
+debug_output/
+logs/
+*.log
+*_results.txt
+tree_output.txt
+analysis.txt
+audit_out.txt
+audit_log.txt
+size_results.txt
+test_node.txt
+test.log
+tail_audit_utf8.txt
+balance_results.txt
+balance_v2_results.txt
+marker_list.txt
+marker_regex_results.txt
+
+# OS files
+.DS_Store
+Thumbs.db
